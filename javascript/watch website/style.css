@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+    font:normal 15px Arial;
+}
+
+header{
+    color:black;
+    text-align: center;
+}
+
+section{;
+    width: 500px;
+    margin: 10px auto 20px auto;
+    background-color:white;
+    padding: 10px;
+    box-shadow: 3px 3px 3px black;
+}
+
+div{
+    text-align: center;
+    padding: 10px;
+}
+
+footer{
+    color: black;
+    text-align: center;
+    font-style: italic;
+}
